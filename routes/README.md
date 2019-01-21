@@ -1,0 +1,1 @@
+DEBUG=minilife-backend:* npm start 
